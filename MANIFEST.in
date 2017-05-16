@@ -1,0 +1,4 @@
+include gloria_deps/license.txt
+include gloria_deps/examples/orthaea.csv
+include gloria_deps/data.pyx
+include README.md
