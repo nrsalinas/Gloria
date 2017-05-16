@@ -1,4 +1,4 @@
-Gloria version 0.1 October 10th, 2016
+Gloria version 0.3 May 16th, 2017
 
 **gloria.py** is a Python program to identify areas of endemism from geographic
 distribution data, using Hidden Markov Random Fields.
